@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is the time complexity of accessing an element in an array by index?",
+    "options": ["O(1)", "O(n)", "O(log n)", "O(n²)"],
+    "answer": "O(1)"
+  },
+  {
+    "question": "Which data structure uses First-In-First-Out (FIFO) principle?",
+    "options": ["Stack", "Queue", "Array", "Tree"],
+    "answer": "Queue"
+  },
+  {
+    "question": "What is the default value of an `int` variable in Java if not initialized?",
+    "options": ["0", "null", "Undefined", "Garbage value"],
+    "answer": "0"
+  },
+  {
+    "question": "Which of the following is not a linear data structure?",
+    "options": ["Stack", "Queue", "Graph", "Array"],
+    "answer": "Graph"
+  },
+  {
+    "question": "What is the output of the following Java code?\n\nint a = 5;\nint b = 10;\nSystem.out.println(a + b + \" is the sum\");",
+    "options": ["15 is the sum", "5 + 10 is the sum", "is the sum 15", "Compilation error"],
+    "answer": "15 is the sum"
+  },
+  {
+    "question": "Which of the following methods is used to compare two strings in Java?",
+    "options": ["==", "equals()", "compare()", "compareTo()"],
+    "answer": "equals()"
+  },
+  {
+    "question": "What does the following Java code do?\n\nStack<Integer> stack = new Stack<>();\nstack.push(1);\nstack.push(2);\nstack.pop();",
+    "options": ["Adds 1 and 2 to the stack, then removes 1", "Adds 1 and 2 to the stack, then removes 2", "Only adds 1 to the stack", "Removes both elements from the stack"],
+    "answer": "Adds 1 and 2 to the stack, then removes 2"
+  },
+  {
+    "question": "In which data structure is insertion and deletion performed at one end only?",
+    "options": ["Array", "Stack", "Queue", "Linked List"],
+    "answer": "Stack"
+  },
+  {
+    "question": "Which of the following is a property of a binary search tree (BST)?",
+    "options": ["Left child is greater than root", "Right child is smaller than root", "All nodes are sorted in increasing order", "Left child is smaller, right child is greater"],
+    "answer": "Left child is smaller, right child is greater"
+  },
+  {
+    "question": "What is the purpose of the `final` keyword in Java?",
+    "options": ["To make a variable global", "To make a variable constant", "To allow modification of a variable", "To terminate a loop"],
+    "answer": "To make a variable constant"
+  }
+]
