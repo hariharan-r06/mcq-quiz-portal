@@ -12,7 +12,7 @@ The **MCQ Quiz Portal** is a web application designed to allow students to regis
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React.js  
+- **Frontend:** React.js, Tailwind css
 - **Backend:** Spring Boot (Java)  
 - **Database:** MySQL  
 - **API:** RESTful Web Services  
